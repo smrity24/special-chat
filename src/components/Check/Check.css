@@ -14,12 +14,6 @@ body {
 }
 
 .joinOuterContainer {
-  position: "fixed";
-  right: 10;
-  bottom: 100%;
-  width: 50;
-  height: 50;
-  background: "purple";
   display: flex;
   justify-content: center;
   text-align: center;

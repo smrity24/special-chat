@@ -1,0 +1,25 @@
+.button {
+  position: fixed;
+  width: 50px;
+  height: 50px;
+  right: 10px;
+  bottom: 10px;
+
+  background: rgba(45, 51, 27, 0.44);
+  border: 3px solid #000000;
+  box-sizing: border-box;
+  border-radius: 50px;
+  box-shadow: 0 0 px rgba(0, 0, 0, 0.28);
+  outline: none;
+  cursor: pointer;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 16px;
+  display: flex;
+  align-items: center;
+
+  color: #8204ff;
+  transform: matrix(1, 0, 0, -1, 0, 0);
+}
